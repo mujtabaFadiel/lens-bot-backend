@@ -1,4 +1,4 @@
-# LensBot Backend 🤖
+# LensBot Backend 
 
 A smart WhatsApp AI assistant for photography studios, built with NestJS. It handles customer inquiries, manages bookings, and automates responses using Groq AI.
 
